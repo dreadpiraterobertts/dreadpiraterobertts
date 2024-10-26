@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dreadpiraterobertts
-- 👀 I’m interested in web development even though i am starting out
-- 🌱 I’m currently learning ccomputer science
-- 💞️ I’m looking to collaborate on some web projects that help me broaden my knowledge
+- 👀 I’m interested in web development 
+- 🌱 I’m currently in senior year ccomputer science
 - 📫 How to reach me mussiet5@gmail.com
 
 <!---
